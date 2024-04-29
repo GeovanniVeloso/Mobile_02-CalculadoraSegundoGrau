@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calcEq2G</string>
+    <string name="v1">Digite o valor de A</string>
+    <string name="v2">Digite o valor de B</string>
+    <string name="v3">Digite o valor de C</string>
+    <string name="calc">Calcular</string>
+    <string name="res"> </string>
+    <string name="erro01"> Não é uma equação do 2° grau</string>
+    <string name="erro02"> Não possui raízes reais</string>
+    <string name="x1"> x1 = </string>
+    <string name="x2"> x2 = </string>
+</resources>
